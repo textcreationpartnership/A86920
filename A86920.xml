@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Army --- armed, and their just powers stated: or Arguments unansvverable; proving them just and lawfull powers; and governours, and so not usurpers. Likewise a justification of this present Parliament, and Councel of State chosen, and constituted by them for authentique and lawful powers, and governours also, against all opposers whatsoever, conceived usefull for satisfying any one of the said powers scrupulous amongst themselves, so any other conscientious people whatsoever. And lastly, to be even with all sorts of cunning and politique pretenders against any of them, as not lawfull powers and governors, on purpose to countenance disobedience and rebellion, and so raise factions, to the disturbance and endangering of our country. Written immediately upon the dissolution of the late Parliament, and the creation of our new one, but occasionally reserv'd till now. By S.H. Senior.</title>
+            <author>Hunton, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86920</idno>
+            <idno type="STC">Wing H3786</idno>
+            <idno type="STC">Thomason E712_15</idno>
+            <idno type="STC">Thomason E725_9</idno>
+            <idno type="STC">ESTC R202475</idno>
+            <idno type="EEBO-CITATION">99862736</idno>
+            <idno type="PROQUEST">99862736</idno>
+            <idno type="VID">166792</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166792)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E712[15] or 112:E725[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Army --- armed, and their just powers stated: or Arguments unansvverable; proving them just and lawfull powers; and governours, and so not usurpers. Likewise a justification of this present Parliament, and Councel of State chosen, and constituted by them for authentique and lawful powers, and governours also, against all opposers whatsoever, conceived usefull for satisfying any one of the said powers scrupulous amongst themselves, so any other conscientious people whatsoever. And lastly, to be even with all sorts of cunning and politique pretenders against any of them, as not lawfull powers and governors, on purpose to countenance disobedience and rebellion, and so raise factions, to the disturbance and endangering of our country. Written immediately upon the dissolution of the late Parliament, and the creation of our new one, but occasionally reserv'd till now. By S.H. Senior.</title>
+                  <author>Hunton, Samuel.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Le aty [i.e. Lea at] Paul's-Chain.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Samuel Hunton.</note>
+                  <note>Annotation on Thomason copy E.712[14]: 7ber: [i.e. September] 8"; on copy E.725[9]: "Decemb. 23".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166792:1" rendition="simple:additions"/>
+            <p>THE ARMY—ARMED, AND Their juſt Powers ſtated: OR ARGUMENTS UNANSVVERABLE; Proving them juſt and lawfull Powers, and Governours, and ſo not Uſurpers.</p>
+            <p>Likewiſe a juſtification of this preſent <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> and <hi>Councel of State</hi> choſen, and conſtituted by them for Authentique and lawful Powers, and Governours alſo, againſt all Oppoſers whatſoever, conceived uſefull for ſatisfying a<g ref="char:EOLhyphen"/>ny one of the ſaid <hi>Powers</hi> ſcrupulous amongſt themſelves, ſo any other conſcientious people whatſoever.</p>
+            <p>And laſtly, to be even with all ſorts of cunning and politique pretenders againſt any of them, as not lawfull <hi>Powers</hi> and <hi>Governors,</hi> on purpoſe to countenance diſobedience and rebellion, and ſo raiſe <hi>Factions,</hi> to the diſturbance and endangering of our COUNTRY.</p>
+            <q>
+               <p>
+                  <hi>It's against the Law of the</hi> Romans, <hi>of</hi> Heathens <hi>and</hi> Pagans, <hi>to con<g ref="char:EOLhyphen"/>demn any man before he is heard, read therefore adviſedly before thou judgeſt.</hi>
+               </p>
+            </q>
+            <p>Written immediately upon the diſſolution of the late Parliament, and the creation of our new one, but occaſionally reſerv'd till now.</p>
+            <p>By <hi>S. H.</hi> Senior.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>William Leaty Paul's-Chain.</hi> 1653.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:166792:2"/>
+            <pb facs="tcp:166792:2"/>
+            <head>To his Excellency the Lord <hi>Cromwell,</hi> Captain Generall of all the Forces of <hi>England, Scotland,</hi> and <hi>Jreland, &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Right Honorable Lord,</salute>
+            </opener>
+            <p>SO ſenſible am I of the Exceptions and <hi>Clamours</hi> of divers <hi>people,</hi> who ſome of weakneſſe, others of wickedneſſe, cry out againſt our preſent <hi>Powers</hi> in generall, as <hi>Uſurpers,</hi> or however, as unlawful or un<g ref="char:EOLhyphen"/>juſt, wanting (as they ſay) warrantable grounds, and foundations, <hi>viz.</hi> the <hi>Peoples</hi> free choice, which ſhould they paſſe without anſwering, would confirm and im<g ref="char:EOLhyphen"/>bolden them in their <hi>Clamours</hi> as juſt, and render your <hi>Honor,</hi> with the reſt of our worthy <hi>Governours,</hi> and <hi>Souldiery,</hi> of all ſorts, as unjuſt <hi>Uſurpers,</hi> and wrong do<g ref="char:EOLhyphen"/>ers, and ſo may in time hearten to Factioning and Re<g ref="char:EOLhyphen"/>bellion, even to <hi>hoſtility,</hi> to the diſturbance and endan<g ref="char:EOLhyphen"/>gering of our <hi>Nation;</hi> all which to remedy, I the mean<g ref="char:EOLhyphen"/>eſt of all, am inforc't through the ſilence of all, to un<g ref="char:EOLhyphen"/>dertake, which I will aſſure your <hi>Honor,</hi> I do with <hi>re<g ref="char:EOLhyphen"/>miſſeneſſe</hi> and <hi>feare,</hi> by reaſon of divers <hi>Tenets</hi> held and handled therein, contrary to what's held at this time, and that by thoſe accounted both good and wiſe. But I forbeare to be further offenſive to your Honor by enlargement, I therefore only make bold humbly to in<g ref="char:EOLhyphen"/>treat your Honors faireſt conſtruction of my well-meant endeavours, and ſo I reſt</p>
+            <closer>
+               <signed>Your Honors moſt humble ſervant, and great <hi>Admirer</hi> of your high perfe<g ref="char:EOLhyphen"/>ctions of faithfulneſſe and fortitude, <hi>Samuel Hunton.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>Aug.</hi> 1653.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:166792:3"/>
+            <head>Courteous Reader.</head>
+            <p>
+               <hi>WEre I Innocency</hi> it ſelfe, yet may I not expect to be quit from <hi>cenſure;</hi> but ſure, if thou underſtand<g ref="char:EOLhyphen"/>eſt me rightly, thou will find that I deſerve none; I am at peace then in my own heart, ſay, and think what thou wilt: Again, I am not for the aforeſaids, nor any <hi>Powers</hi> far<g ref="char:EOLhyphen"/>ther then is juſt, and generally conducing to <hi>Juſtice, Peace,</hi> and <hi>Safety;</hi> as for their <hi>actions,</hi> good, or bad, I at this time meddle not with, nor judge not of, only I make them <hi>lawfull Powers,</hi> though in error they ſhould act ſome un<g ref="char:EOLhyphen"/>lawfulneſſe, as the beſt will do, yea thy ſelfe, if once im<g ref="char:EOLhyphen"/>powred. The main end of my writing this <hi>Tract,</hi> appears in the <hi>Title,</hi> ſo I ſpare here to enlarge, I reſt then</p>
+            <closer>
+               <signed>My Countrys, and thy ſer<g ref="char:EOLhyphen"/>vant, as thou art its, <hi>S. H.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>I entreat the</hi> Reader <hi>to read the</hi> Margent <hi>alſo, els may he come ſhort of our intention.</hi> 
+               </p>
+            </postscript>
+         </div>
+      </front>
+      <body>
+         <div type="argument">
+            <pb n="1" facs="tcp:166792:3"/>
+            <head>The Army armed, &amp;c.</head>
+            <p n="1">1. ITs a received Principle on all ſides, that <hi>Salus Po<g ref="char:EOLhyphen"/>puli</hi> is (of temporalls) the higheſt Law, and Su<g ref="char:EOLhyphen"/>premeſt Principle, and I add, of ſpiritualls alſo in juſt competition, for Mercy is before Sacrifice, 'cauſe God cannot need, and man cannot but need; the Sabbath alſo Gods own day, is in competition mans day, for the Sabbath is for man, and <hi>that in humanities, &amp;c.</hi>
+            </p>
+            <p n="2">2. <hi>This Principle</hi> ſtanding good againſt all Arguments and oppoſitions whatſoever, we did formerly, and doe now thereby ſupport all preſent <hi>Powers</hi> in being (though bad, yea though <hi>Uſurpers</hi>) provided not <hi>deſtroyers,</hi> much more our late <hi>Parliament,</hi> which though faulty, yet not to that degree; and ſo now our <hi>preſent Army,</hi> (who hi<g ref="char:EOLhyphen"/>therto are faultleſſe) rather then allow of the diſſolution of them or any <hi>Powers</hi> without our<note n="*" place="margin">Of ſelf-ſecurity, ſo the Nati<g ref="char:EOLhyphen"/>ons, and bettering us with better men</note> 
+               <hi>cautions,</hi> in likely<g ref="char:EOLhyphen"/>hood to the deſtruction of our Nation, by involving it into <hi>Factions</hi> and <hi>Parties,</hi> and ſo into oppoſitions and conteſts, even to <hi>bloud,</hi> and ſo in likelyhood to <hi>ruine;</hi> but with our <hi>cautions,</hi> as with ſecuring our <hi>Nation</hi> from the<note n="†" place="margin">Dangers &amp;c. ſo alſo the good and inno<g ref="char:EOLhyphen"/>cent of the late Parli<g ref="char:EOLhyphen"/>ament.</note> aforeſaids, and bettering us with better men in points of <hi>abilities</hi> and <hi>faithfulneſſe,</hi> I did, do, and will give way to the diſſolution of all deſtructive <hi>Powers,</hi> rather then to the deſtruction or ſufferings of the <hi>People</hi> in their <hi>Rights, Liberties,</hi> and <hi>Safeties</hi> by them.</p>
+            <p n="3">3. But ſince the writing of that <hi>Tract,</hi> the <hi>Act</hi> is done,
+<pb n="2" facs="tcp:166792:4"/> and our ſaid <hi>Parliament</hi> undone, or diſſolv'd, and in like<g ref="char:EOLhyphen"/>lyhood, as neer as can be, with our <hi>Cautions</hi> every way, as without endangering our <hi>Nation,</hi> or the <hi>innocent</hi> of them, &amp;c. yea far beyond our <hi>conceptions,</hi> as without the leaſt crack of <hi>thunder,</hi> or flaſh of <hi>lightning,</hi> and the ſaid <hi>Power</hi> is now conveyed to and upon the <hi>Army,</hi> and ſo our <hi>Principles</hi> and <hi>Cautions</hi> hold for the <hi>Army</hi> now, ſo any<note n="*" place="margin">As pub<g ref="char:EOLhyphen"/>like con<g ref="char:EOLhyphen"/>ducings ſhall cauſe to change, and create</note> ſucceeding <hi>Powers,</hi> as they did afore for the <hi>Parliament,</hi> and no otherwiſe, ſo I partialize not for any <hi>Powers</hi> a<g ref="char:EOLhyphen"/>mongſt themſelves, nor yet againſt my <hi>Country,</hi> but am for the beſt conducings to our <hi>Country,</hi> all things conſi<g ref="char:EOLhyphen"/>dered.</p>
+            <p n="4">4. Beſides the aforeſaid <hi>Arguments,</hi> theſe following ſecond the <hi>Army</hi> alſo, <hi>viz. Religion, Reaſon, Nature,</hi> and <hi>Neceſsity;</hi> theſe I ſay do now not onely conſtitute, but fortifie and confirm them alſo, and ſo forbids any, yea themſelves from diſpowring themſelves, by laying down their <hi>powers,</hi> or impowring any above them, either in <hi>name</hi> or <hi>nature,</hi> without our cautions of ſelf-ſecurity e<g ref="char:EOLhyphen"/>very way, ſo their country alſo, except <hi>prudence</hi> adviſe to ſome wiſe <hi>colours</hi> and<note n="‡" place="margin">Shadow<g ref="char:EOLhyphen"/>ings.</note> 
+               <hi>covertures</hi> for juſt conducings ſake, they may then create <hi>powers</hi> to ſecond them, but not to firſt them every<note n="*" place="margin">As not in power.</note> way as <hi>Moſes</hi> his 70. <hi>Elders,</hi> who yet held the <hi>priority</hi> of <hi>name, place,</hi> and <hi>power,</hi> but to conſti<g ref="char:EOLhyphen"/>tute a <hi>power</hi> in <hi>power</hi> above themſelves, <hi>quaere,</hi> if not <hi>trea<g ref="char:EOLhyphen"/>chery</hi> to themſelves, ſo to the <hi>publike,</hi> as to the hazzard of our <hi>Nation,</hi> as afore, both which are now in their powers to provide for, and ſecure, but if out of their powers, they hazzard all, and themſelves alſo, to be call'd to accompt even for the good they have done, under <hi>Notions</hi> ren<g ref="char:EOLhyphen"/>dred evill, as <hi>Rebels, Traytors, Sectariſts, Independents, &amp;c.</hi> ſo alſo, as enemies to <hi>Kinghood, Priesthood, Prelacy,</hi> and <hi>Presbyterye,</hi> and ſo our <hi>Nation</hi> may in likelyhood be cir<g ref="char:EOLhyphen"/>cularly
+<pb n="3" facs="tcp:166792:4"/> factioned to ruine, yea they may be call'd to ac<g ref="char:EOLhyphen"/>compt for bad things they would not do, as if good things left undone, as for not eſtabliſhing the<note n="†" place="margin">Is not the Sab<g ref="char:EOLhyphen"/>bath for man? is not mercy before Sa<g ref="char:EOLhyphen"/>crifice? but oh weak<g ref="char:EOLhyphen"/>neſſe. See Sect. 21. the Margent.</note> 
+               <hi>Goſpel</hi> a<g ref="char:EOLhyphen"/>bove the <hi>Law,</hi> and <hi>Rites</hi> for <hi>Religion,</hi> and <hi>Regiment</hi> for <hi>Righteouſneſſe,</hi> ſo for not ſacrificing <hi>Juſtice</hi> and <hi>Mercy</hi> to <hi>Religion,</hi> as call'd, for many<note n="*" place="margin">Its the treache<g ref="char:EOLhyphen"/>rous, and not the true, I ex<g ref="char:EOLhyphen"/>cept a<g ref="char:EOLhyphen"/>gainſt.</note> Prieſts are great <hi>prevarica<g ref="char:EOLhyphen"/>tors,</hi> in their great is <hi>Diana</hi> and <hi>Dagon,</hi> and <hi>oh</hi> Darius <hi>live for ever!</hi>
+            </p>
+            <p n="5">5. Thus much in juſtification of them, for aſſuming, and retaining, or holding the <hi>power,</hi> which our <hi>principles</hi> of a <hi>juſt neceſsity</hi> to preſerve their owne, and the <hi>peoples rights, welfares,</hi> and <hi>ſafeties</hi> thereby, and ſo improved, makes good, els not.</p>
+            <p n="6">6. <hi>Next</hi> let's reaſon it out amongſt our ſelves, and that <hi>righteouſly,</hi> ſome <hi>Governors</hi> we muſt have, and adventure on, theſe we know, ſo know in likelyhood what to truſt to, all others (let's do our beſt) are more uncertaine and hazzardable, alſo hard, yea dangerous to inveſt, for how ſhall we out theſe if we would? Again, why, or for what ſhould we, if we could, what reaſon alſo is there that they ſhould give way thereto, all things conſidered, as a<g ref="char:EOLhyphen"/>fore at Sect. 4. by all <hi>arguments</hi> then they are our right <hi>Governors. Next,</hi> alſo their owne, ſo <hi>publike neceſsity</hi> in<g ref="char:EOLhyphen"/>rights them; for admit they would reſign the Govern<g ref="char:EOLhyphen"/>ment, ſure we ſhould deſtroy our ſelves about a<note n="*" place="margin">King, or</note> 
+               <hi>Gover<g ref="char:EOLhyphen"/>nor,</hi> or<note n="†" place="margin">Parlia<g ref="char:EOLhyphen"/>ment.</note> 
+               <hi>Governors:</hi> be it they are bad alſo, yet its a de<g ref="char:EOLhyphen"/>gree of happineſſe that we are better then we were, if ſo, or not worſe, ſeeing changes are dangerous; alſo by holding the <hi>Government</hi> or <hi>Power,</hi> they prevent dangers that might happen, by changing and rechanging, as a<g ref="char:EOLhyphen"/>fore. <hi>Weaklings</hi> compreſſe then, and comply for the un<g ref="char:EOLhyphen"/>principled, know not what to have, or hold, truſt to, or forego; if you ſay they may prevaricate, I ſay ſo too, and
+<pb n="4" facs="tcp:166792:5"/> ſo may all, yea ſo will all, more or leſſe; <hi>Angels</hi> have not <hi>perfection,</hi> what wilt thou then have in<note n="*" place="margin">Man.</note> 
+               <hi>imperfection?</hi>
+            </p>
+            <p n="7">7. Conſidered then according to our <hi>premiſes,</hi> they are <hi>lawfull powers,</hi> and ſo we ought to obey them, and they may juſtly inforce, conducing obedience, els infer, and ſo inter <hi>Salus</hi> thy <hi>Soveraign,</hi> we are then for the aforeſaid <hi>reaſons,</hi> juſtly in their <hi>powers,</hi> whether they will ſelfely rule, or whether a <hi>Parliament,</hi> or no <hi>Parliament,</hi> or what kind of <hi>Government</hi> and <hi>Governors,</hi> both for <hi>numbers, names,</hi> and <hi>natures,</hi> we ſhall have, in all which they are free to take, or leave, as was <hi>Moſes,</hi> ſo to order, as they ſee beſt, and are not bound to <hi>Law, cuſtomes, Rites,</hi> or <hi>Cere<g ref="char:EOLhyphen"/>monies,</hi> of any kind, but only to<note n="†" place="margin">There are no other right tyes but theſe.</note> righteouſneſſe, and ge<g ref="char:EOLhyphen"/>nerall conducings.</p>
+            <p n="8">8. <hi>Object.</hi> 1. But it may be objected againſt them, as <hi>U<g ref="char:EOLhyphen"/>ſurpers,</hi> not being rightly choſen by the <hi>people,</hi> ſo it's a breach of the <hi>peoples Liberties.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> 2. That we are ruled by the <hi>Sword,</hi> or <hi>Sword<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Juſt neceſſitated <hi>uſurpation</hi> (as call'd) though for <hi>ſelf-ſafety</hi> only, much more for the publike, as to preſerve it in its <hi>rights,</hi> and deliver it from <hi>wrong,</hi> ſo from endangerings to ruine, and ſo<note n="*" place="margin">Note, if ſo impro<g ref="char:EOLhyphen"/>proved, els not.</note> improved, <hi>our principle</hi> allows of as <hi>juſt, commendable,</hi> and <hi>honorable</hi> alſo, for that in ſuch caſes, forms, cuſtomes, and liberty of<note n="†" place="margin">Of new Powers, as a new Par<g ref="char:EOLhyphen"/>liament.</note> free choice, are but ceremonies to <hi>ſafety,</hi> which kept to, might looſe us all, by factioning us, for forms and cere<g ref="char:EOLhyphen"/>monies only, as for <hi>Kinghood, Prieſthood,</hi> and <hi>Prelacy</hi> a<g ref="char:EOLhyphen"/>gain, which ſuppoſe better, yet its better to be without them, then to deſtroy our ſelves for them, how then ſee<g ref="char:EOLhyphen"/>ing they will deſtroy us; <hi>know then,</hi> that loſe <hi>Freedomes</hi> licentiate us, and ſo bind us, and that its only fit <hi>bind<g ref="char:EOLhyphen"/>ings,</hi> renders us <hi>freemen.</hi>
+            </p>
+            <p n="9">
+               <pb n="5" facs="tcp:166792:5"/>9. On the premiſes, the <hi>Army</hi> are not<note n="*" place="margin">In op<g ref="char:EOLhyphen"/>poſition to free choice</note> 
+               <hi>Uſurpers,</hi> as is not a ſervant over his Maſter upon tearms of juſt neceſſitated <hi>defence, ſelf,</hi> or <hi>publike,</hi> if he diſarm his ſaid <hi>Maſter,</hi>
+               <note n="†" place="margin">So they the pub<g ref="char:EOLhyphen"/>like.</note> and arm himſelf therewith, for his own, ſo his <hi>Maſters,</hi> ſo a<g ref="char:EOLhyphen"/>ny ones juſt <hi>defence,</hi> and happy is his <hi>Maſter</hi> to be ſo o<g ref="char:EOLhyphen"/>ver-maſtered, and ſo is our <hi>giddy-brain'd Nation</hi> alſo, were they Maſters of their Senſe and Senſes.</p>
+            <p>
+               <hi>Object.</hi> 2. We are governed by the <hi>Sword,</hi> or <hi>Sword<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+            <p n="10">10. The <hi>Sword</hi> hath already given thee an anſwer ſuf<g ref="char:EOLhyphen"/>ficient, yet out of its nobleneſſe it will further deſcend in compliance to give thee content, the <hi>Sword</hi> ſaith then, as its a juſt Governor, why excepteſt thou? and if it rule juſtly, what wouldſt thou more? and if it have ſome fail<g ref="char:EOLhyphen"/>ings, ſo will all, even the <hi>Excepter</hi> himſelfe; know friend thou art alwayes ruled by the <hi>Sword,</hi> for if the <hi>Sword</hi> at<g ref="char:EOLhyphen"/>tend not the Magiſtrate, the Magiſtrate muſt attend it, for he bears not the <hi>Sword</hi> for nought, nor ought the <hi>Sword</hi> to be ſet at nought,—nor Will.</p>
+            <p n="11">11. The <hi>Magiſtrates</hi> ſheathed <hi>ſword,</hi> as not ſcene, is more ſurprizing, this is viſible, and as bare and naked as <hi>truth</hi> it ſelf, ſo not ſo treacherous or ſurprizing, as is the ſurreptitious <hi>Sword,</hi> but alwayes warning, and ſo arming thee againſt thy ſelfe and it. It was the viſible, the bright, and brandiſht blades, that warn'd, and ſo aw'd <hi>Adam</hi> and <hi>Balaams Aſſe,</hi> both which by a ſheathed, or hidden <hi>ſwords ambuſhments,</hi> might have beene ſurprized and cut to pieces.</p>
+            <p n="12">12. Sure though they govern by th <hi>Sword,</hi> yet alſo by the words of<note n="*" place="margin">Reaſon, Or</note> God and<note n="†" place="margin">Law.</note> man, legall, or rationall, what matters it then for the name <hi>Sword,</hi> which is but a word, except a blow follow for thy deſerting thy duty, and ſo will it from the latent Sword, which is but a word, yet a
+<pb n="6" facs="tcp:166792:6"/> blow alſo as thy <hi>pravities</hi> are <hi>patent:</hi> Remember then I ſay, that all Magiſtrates are men, not Angels, and were they, yet its ſaid he found <hi>folly</hi> in his <hi>Angels;</hi> in ſhort, <hi>certainties</hi> are uncertain, and <hi>uncertainties</hi> are certain, ſo we run hazzards whoever governes, but if likelyhoods be preferrable, as they are, then this <hi>Army,</hi> theſe <hi>Sword<g ref="char:EOLhyphen"/>men,</hi> theſe <hi>Governors,</hi> are by all out <hi>arguments</hi> afore, therefore be ſatisfied and contented with what is ſaid, for thou art anſwered, paſt thy anſwering.</p>
+            <p n="13">
+               <note place="margin">A digreſ<g ref="char:EOLhyphen"/>ſion in re<g ref="char:EOLhyphen"/>lation to the Scots King, that he hath not any right to the Crowne. Note all this all ſorts.</note>13. I only add for a <hi>concluſion</hi> the following conſider<g ref="char:EOLhyphen"/>able <hi>caution</hi> alſo, let all all ſorts know then, that ſelfe-rights not forfeited, are yet not pleadable, nor to be ſided with againſt our principle, viz. the <hi>peoples welfare,</hi> and <hi>ſafeties,</hi> for its better that one, yea many innocents pe<g ref="char:EOLhyphen"/>riſh in their ſelf-rigts, then that the <hi>Univerſal</hi> be endan<g ref="char:EOLhyphen"/>gered to inright them, if ſo as afore, for ſelf-rights not forfeited, much more then for forfeited <hi>deputatives;</hi> where then by this are the <hi>Scots King</hi> (as called) his for<g ref="char:EOLhyphen"/>feited <hi>deputative rights</hi> to his own <hi>King,</hi> the <hi>people,</hi> whoſe originally they were, and his only for its ſake, not his own; for he having forſaken his King, is juſtly <hi>unkinged,</hi> and forſaken by him. What alſo can his pretending ſe<g ref="char:EOLhyphen"/>conders and ſiders with ſay to this, are not ſuch ſecond<g ref="char:EOLhyphen"/>ers for their own ſiniſter ends ſake, ſeducers and traytors that will ſide with themſelves againſt their<note n="*" place="margin">Salus.</note> 
+               <hi>Lord,</hi> and yet pretend its for their King, againſt both their<note n="†" place="margin">The peo<g ref="char:EOLhyphen"/>ple.</note> 
+               <hi>Kings,</hi> are not theſe Fellows finely principled, that will ſide with the ſervants forfeited <hi>deputative rights,</hi> againſt their and his<note n="*" place="margin">The people.</note> 
+               <hi>Lords ſelfe-rights;</hi> ſure ſuch ſeducers and ſiders with, are <hi>murtherers</hi> and <hi>thieves;</hi> of all kill'd or taken from, on each ſide, as inforced thereto.</p>
+            <p n="14">14. Suppoſe yet higher, that the <hi>King</hi> is innocent, and abſolutely wronged of his <hi>rights,</hi> what then? yea fur<g ref="char:EOLhyphen"/>ther,
+<pb n="7" facs="tcp:166792:6"/> ſuppoſe they were his ſelf-rights, as they are not, and not forfeited, as they are, what then? where doth a<g ref="char:EOLhyphen"/>ny one find it in the <hi>Law</hi> of <hi>Religion</hi> and <hi>Reaſon,</hi>
+               <note place="margin">All this concernes every in<g ref="char:EOLhyphen"/>dividuall. Note alſo the end of this Secti<g ref="char:EOLhyphen"/>on.</note> that to inright one, they may hazzard the ruine of millions; if the wronged could right themſelves the right way, as on the wrongers only, I diſpute not againſt it; but to wrong infinite <hi>innocents</hi> to right one nocent, or admit <hi>innocent,</hi> of which yet they may fail, is unſpeakable madneſſe, fol<g ref="char:EOLhyphen"/>ly, and injuſtice: by this, why may not <hi>Clients</hi> clearly injured by their <hi>Lawyer,</hi> or their <hi>Adverſary, hoſtile</hi> it,<note place="margin">Note, that the inno<g ref="char:EOLhyphen"/>cent, if good, will not deſire reliefe to the hazard of any ones bloud, much leſſe of many ones, and the endan<g ref="char:EOLhyphen"/>gering of their country alſo.</note> and gather an army of men, <hi>Eſau</hi> like, and ſo inforce his <hi>Adverſary</hi> to do as much for his defence; ſo theſe two <hi>Murtherers</hi> muſt meet with their <hi>multitudes,</hi> and the <hi>in<g ref="char:EOLhyphen"/>nocent fools</hi> on both ſides muſt murther each other, under the notion of ſiding with for rights, and yet may this be much better done for known ſelf-rights, then for known forfeited <hi>deputatives,</hi> not to the ruine of a multitude on<g ref="char:EOLhyphen"/>ly, but of a <hi>Nation,</hi> to whom they were bound by <hi>oath, honor, truſt,</hi> and <hi>tribute,</hi> and ſo owe duty and ſervice an<g ref="char:EOLhyphen"/>ſwerable.</p>
+            <p n="15">15. How alſo can forraign religious <hi>Princes</hi> and <hi>States</hi> then in honor and honeſty anſwer it, to <hi>murther</hi> and <hi>thieve</hi> it, in pretending to help ſuch to their <hi>rights;</hi> but the truth is, they help them only to be helpt in the like caſes; ſo we are like to have a mad world of it, when <hi>re<g ref="char:EOLhyphen"/>ligious Princes</hi> and <hi>States,</hi> as call'd, ſhall help to ſupport one another in <hi>tyrannies, thefts,</hi> and <hi>murthers,</hi> under the <hi>notion</hi> of <hi>rights;</hi> but woe to thoſe that call <hi>good evill,</hi> and <hi>evill good;</hi> I marvell exceedingly that ſuch juſt, <hi>religious,</hi> and <hi>honorable Princes</hi> and <hi>States</hi> do not ſend over their Armies now and then to help each <hi>innocent individuall</hi> wrong'd of his ſelf-rights by his <hi>Adverſary</hi> or his <hi>Law<g ref="char:EOLhyphen"/>yer:</hi> for its a much fairer, goodlier, and juſter ground and
+<pb n="8" facs="tcp:166792:7"/> pretence then the other, though both be naught, as teaching both ſides <hi>naughtineſſe,</hi> as to invade each others rights, under pretence of <hi>righteouſneſſe.</hi>
+            </p>
+            <p>I have now done, only I make bold for a <hi>concluſion,</hi> to add the <hi>concluſion</hi> of my other <hi>Tract,</hi> as its ſuiting in its nature, and end with this, which is as followeth in be<g ref="char:EOLhyphen"/>halfe of the <hi>Army.</hi>
+            </p>
+            <p n="16">16. Its then conſiderable alſo, that all care be taken a<g ref="char:EOLhyphen"/>gainſt the diſſolution of this <hi>Army,</hi> as of the <hi>Parliament,</hi> except with our cautions, of ſecuring the good and inno<g ref="char:EOLhyphen"/>cent of them, ſo our <hi>Nation</hi> from hazzardables of dan<g ref="char:EOLhyphen"/>gers and troubles to ruine; alſo to ſecure us of better men, els, why change theſe? which a new <hi>Parliament</hi> might chance to attempt, to the hazzard of all, as afore; for we have experience of this <hi>Army,</hi> both of its faith<g ref="char:EOLhyphen"/>fulneſſe, fortitude, and good fortune alſo in our defence; and that it hath not any way offended us, or done us any wrong, but contrarily defended us, and done us much good, but of the next <hi>Army</hi> we know nothing at all, ſo muſt run the adventure of all, as of their <hi>evill,</hi> and their <hi>good,</hi> which I conceive is not good to doe, for, certaine goods are better then uncertain, and no Evills are better then to adventure for them.</p>
+         </div>
+         <div type="contract">
+            <pb n="9" facs="tcp:166792:7"/>
+            <head>Our aforeſaid Arguments in behalfe of all our preſent powers (as juſt and lawfull, and ſo obeyable) contracted.</head>
+            <p n="1">1. OUr former <hi>Parliament,</hi> who conſtituted this <hi>Ar<g ref="char:EOLhyphen"/>my,</hi> were lawfull <hi>powers,</hi> as being themſelves conſtituted by the people, the originalls of right power, who impowred them for all conducing to our <hi>Country,</hi> and they by vertue of this power form'd this Army for our <hi>Countryes</hi> ſake, viz. for its <hi>rights, peace,</hi> and <hi>ſafe<g ref="char:EOLhyphen"/>ty, &amp;c.</hi>
+            </p>
+            <p n="2">2. But ſuppoſe all or moſt of our former <hi>Parliament</hi> were not lawfull powers, but<note n="*" place="margin">Yet its not ſo.</note> Uſurpers, as not choſen by the people, yet it matters not to this point, for uſur<g ref="char:EOLhyphen"/>pers and unlawfull powers are (by our principle) obeya<g ref="char:EOLhyphen"/>ble in lawfulls and<note n="†" place="margin">As in conſtitu<g ref="char:EOLhyphen"/>ting this Army for our Nati<g ref="char:EOLhyphen"/>ons de<g ref="char:EOLhyphen"/>fence.</note> conducings, and right and lawfull powers are not obeyable in unlawfuls and deſtructives, yet as neceſſitated, compliance may be for conducings ſake, and to prevent greater miſchiefs; however, we doe by this, ſay, that its rather conducing commands we are to obey, then the Commanders, whether right or wrong, good or bad, except neceſſitated, as afore. Thus the <hi>Ar<g ref="char:EOLhyphen"/>my,</hi> admit by an uſurping power, yet being conſtituted for conducings, are lawfull powers, how then being by a right <hi>Parliament,</hi> and ſo every way right.</p>
+            <p n="3">3. The <hi>Scribes</hi> and <hi>Phariſees,</hi> a crew of <hi>hypocrites,</hi> and<note n="*" place="margin">For who inveſted them?</note> 
+               <hi>uſurpers</hi> of <hi>Moſes</hi> Seat, yet commanding according to <hi>Moſes</hi> were obeyable; or rather the doctrine then the Doctors, and yet the Doctors alſo, and not the doctrine,
+<pb n="10" facs="tcp:166792:8"/> as juſt neceſſities invite to wink at ſome ſufferings, to prevent inſufferables, or deſtructives, <hi>poſitives</hi> poſe us all, but wiſe <hi>reſpectives</hi> remedy all, for we muſt, and muſt not, may, and may not, according to reſpective conſiderations, for anſwerably things are good and bad.</p>
+            <p n="4">4. Suppoſe the Army alſo, all or moſt of them<note n="†" place="margin">Yet its not ſo.</note> Uſur<g ref="char:EOLhyphen"/>pers, as not choſen by <hi>Parliament</hi> or <hi>People,</hi> it matters not to this point, for I anſwer for them as for an unlaw<g ref="char:EOLhyphen"/>full or uſurping Parliament, as afore at Sect. 2. I anſwer further as formerly, that if their owne, ſo our <hi>Countryes</hi> rights, ſafeties, and neceſſities neceſſitated them thereto, and they have improved their power thereafter, they are then eſſentially right, though not ceremoniouſly ſo, how then when circularly right, as by a right <hi>Parliament?</hi>
+            </p>
+            <p n="5">5. Conſider yet further, that our whole Nation at times petitioned for, and endeavoured a diſſolution of our former Parliament, whether right or wrong I judge not, nor can; this they know not how to bring about, for to attempt it by Armes, without the Army had beene to diſarm themſelves by Armes and Armies, and ſo in like<g ref="char:EOLhyphen"/>lyhood to ruine, for the <hi>Army</hi> had no reaſon to allow of <hi>Armies,</hi> ſelf-rights, and ſafety; ſo the Univerſalls forbid<g ref="char:EOLhyphen"/>ding them, ſo they are inforc't by univerſall implicit im<g ref="char:EOLhyphen"/>portunities, wiſhes, deſires, and commands to undertake it, for done the people would have it, and otherwiſe it could not be done; ſo then they are neceſſitated to doe it, which they do with cautions far beyond our concepti<g ref="char:EOLhyphen"/>ons, as afore; and thus they are <hi>authorized</hi> by the whole <hi>Nation</hi> in <hi>generall,</hi> and ſo incluſively by each individual; therefore let none except, for its, as afore, incluſively their act, as what moſt of the <hi>Parliament</hi> vote, is inclu<g ref="char:EOLhyphen"/>ſively the vote of the <hi>diſſenters,</hi> who conſent, by con<g ref="char:EOLhyphen"/>ſenting
+<pb n="11" facs="tcp:166792:8"/> that the major part ſhall carry it, nor can the <hi>Ar<g ref="char:EOLhyphen"/>my</hi> ſee or mind individualls, but the generall, which is always <hi>Lord Generall.</hi>
+            </p>
+            <p n="5">5. Our former Parliament thus diſſolv'd by Univer<g ref="char:EOLhyphen"/>ſall, ſo Individuall conſent, as afore, the Army then by Univerſall conſent alſo are left alone ſole Powers and Governors, and ſo are a lawfull authority by this alſo, as thus conſequently choſen, none other being <hi>in eſſe</hi> provided, nor <hi>in poſſe</hi> provideable by the people at this time, for our reaſons afore, and after; nor had the <hi>Army</hi> reaſon to give way thereto, without ſelfe, ſo publique rights and ſafeties, which how that could be I ſee not, nor my wiſers, if they ſee<note n="†" place="margin">Conſider all things.</note> well to it, ſo neceſſity pub<g ref="char:EOLhyphen"/>like and particular eſtabliſheth them lawfull Governors, &amp; ſo our preſent <hi>Parliament</hi> and <hi>Councel of State</hi> conſtitu<g ref="char:EOLhyphen"/>ted by them for our Countryes accommodation, are juſt, right, and lawfull powers alſo, and ſo honorable and obeyable, without exception, as ſuch, and for ſuch ends.</p>
+            <p n="6">
+               <note place="margin">By making ſure work with both.</note> 6. Laſt of all, as they have ſaved our Nation from the enemy, its good reaſon they ſave themſelves, both from their enemies and their friends, &amp;c. which they cannot do, if they undo themſelves.</p>
+            <p n="7">7. If I now have reaſoned rightly and truly, and that for right ends, as to do each one right, but eſpecially to make the aforeſaids lawful powers, for the peace, ſafety, and welfare of our Country, which by conceiving and holding them unlawfull, might faction and party us a<g ref="char:EOLhyphen"/>gainſt them, or one againſt another in clandeſtines and rebellions to our ruine; who can or will except againſt me, but ſuch as muſt ſay we are enemies to our friends, ſo to reaſon, rights, juſtice, and our Countryes peace and ſafety, and ſo in truth Traytors, &amp;c. As for my ſelfe
+<pb n="12" facs="tcp:166792:9"/> I am not an enemy to any, no not to my enemies, yet will I oppoſe both my friends and enemies for my Coun<g ref="char:EOLhyphen"/>tryes ſake; and ſo let them do as much by me and ſpare not; for whil'ſt particular or partiall ends of any nature fight againſt, or are prefer'd before the generall, it ren<g ref="char:EOLhyphen"/>ders both Individualls and the Generall in a dangerous condition.</p>
+            <p>Oh all you worthy Powers of all kinds, I have done you all the right I may, more I will not, nor yet leſſe, ſee you retaliate us as rightly, for know its proportion rightly compenſates. Remember the wiſe mans princi<g ref="char:EOLhyphen"/>ple, that Juſtice eſtabliſheth Thrones, and I add, ſo doth it their Inthroners; by the Law of contraries then, inju<g ref="char:EOLhyphen"/>ſtice demoliſheth both, and we find it doth ſo; would you continue powers, you ſee the way thereto, over-power not then your impowrers, except conducingly: Saith not the ſame wiſe man alſo, and our experience likewiſe, that oppreſſions or extremites make <hi>wiſe men</hi> mad, what then may be expected from <hi>madmen</hi> and <hi>fools:</hi> It lies much in your powers by wiſdome to cure the <hi>ma<g ref="char:EOLhyphen"/>ladies</hi> of both theſe <hi>Malignants,</hi> either by prevention, privation, or a qualification of their ſufferings, or by ſa<g ref="char:EOLhyphen"/>tisfying reaſons why, or why not, for a thorough con<g ref="char:EOLhyphen"/>vincement is a <hi>Conqueſt,</hi> ſo their hearts, thoughts, tongues and hands will be out of heart to oppoſe you, and ſo themſelves for ſelf-divideds, do as good as ſubdue them<g ref="char:EOLhyphen"/>ſelves, and ſo ſave their friends a labour.</p>
+         </div>
+         <div type="postscript">
+            <pb n="13" facs="tcp:166792:9"/>
+            <head>Poſtſcript.</head>
+            <p n="17">17. SInce the writing of the aforeſaids, I have met with little <hi>Tract,</hi> entituled; <hi>Englands Fundamental Laws and Liberties claimed, and aſſerted;</hi> I do claim them as well as he, but not <hi>clamourouſly;</hi> our friend is not rightly <hi>prin<g ref="char:EOLhyphen"/>cipled,</hi> for admit checkt of his <hi>claim,</hi> then he conceives he may <hi>clamour;</hi> and he may, ſo it may be; and he may not, ſo it may be alſo, and ſo it is; had he thus <hi>diſtin<g ref="char:EOLhyphen"/>guiſhed,</hi> he had not extinguiſhed his <hi>claim,</hi> which I now ſoberly declaime againſt: he infers that no <hi>Parliaments</hi> or <hi>powers</hi> are right, except by free choice of the people; and ſo infers alſo, that our other <hi>Parliament,</hi> ſo this, ſo this <hi>Army,</hi> ſo many of them as are not choſen originally by the <hi>peoples</hi> free choice, are not <hi>right powers,</hi> I both grant and deny, by diſtinction, which he uſeth not, ſo being <hi>abſolute,</hi> he is <hi>deſolute,</hi> and deſtroys all: I grant the <hi>right</hi> is in the <hi>people,</hi> were they <hi>right;</hi> but being <hi>wrong,</hi> will you allow them their <hi>rights</hi> to <hi>wrong themſelves,</hi> ſo each one to the <hi>ruine</hi> of all? We have fully anſwered this afore at Sect. 2.4.6. ſo need not inlarge; but yet to contract <hi>underſtandings</hi> we ſtand not upon it; give then according to his doctrine to <hi>giddy brains, mad-men</hi> and <hi>drunkards;</hi> ſo to the <hi>angry, furious</hi> and <hi>rageing</hi> their <hi>ſwords</hi> and <hi>piſtolls;</hi> alſo light them candles, that ſo they may go into their gun-powder rooms, cellars and houſes, for all theſe are their rights, and attend the <hi>iſſue,</hi> and ſee if it be not <hi>iſſues</hi> of <hi>bloud:</hi> can you do ſuch as theſe greater right then to wrong them by withholding their rights? can you do ſuch greater wrong, then to do them right? judge <hi>wiſe men</hi> of what I ſay.</p>
+            <p n="18">
+               <pb n="14" facs="tcp:166792:10"/>18. Give then to a factious, a furious, and giddy brain'd <hi>Nation</hi> or people at this time, their <hi>Liberties</hi> and <hi>Rights</hi> to chooſe their Parliaments; and it may be they ſhall ne<g ref="char:EOLhyphen"/>ver chooſe more, if any at all, as not that which they goe about to chooſe; for may not ſuch <hi>Libertines</hi> licenciate it into factions, for <hi>Kinghood, Prieſthood,</hi> &amp; <hi>Presbytery,</hi> with the reſt, &amp;c. and ſo ruine all; I grant it, and many more things our rights, if we could handle them rightly.</p>
+            <p n="19">19. Its well, wiſely, and prudently done then of ſome Governours, not to let us know our rights, or withhold them, till we know how to uſe them without hurting our ſelves and others; and did they no farther abuſe us, nor make uſe of the power in their hands and our ignorance, then to preſerve us, and prevent us from abuſing our ſelves, we were in a happy condition; but to take ad<g ref="char:EOLhyphen"/>vantage of our ignorance and impotence, and their powers over us, and ſo contrary to their ends and be<g ref="char:EOLhyphen"/>truſts, wrong us, or contract us in our rights any way further then a juſt neceſſity enforceth to, is very hard and inhumane, and oft indangers and diſeſtabliſheth Go<g ref="char:EOLhyphen"/>vernours, who els might enjoy themſelves in their pow<g ref="char:EOLhyphen"/>ers and places, with ſome petty ſufferings by the people, provided ſuch as were not too ſenſible to incenſe them; for a little <hi>nip</hi> offends not, but hard <hi>pinchings, ſtayings,</hi> or <hi>treadings</hi> on do, and <hi>wormes</hi> trod on will turn again, but <hi>wiſe men</hi> will not, except with our <hi>cautions,</hi> but rather turne the other <hi>eare;</hi> but who is ſo <hi>wiſe?</hi> there<g ref="char:EOLhyphen"/>fore<note n="a" place="margin">Ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ms of any kind.</note> oppreſſions (as ſaith <hi>Solomon</hi>) makes <hi>wiſe men mad.</hi>
+            </p>
+            <p n="20">20. Times are not now as they formerly were, for in chuſing former <hi>Parliaments</hi> there was no ſuch danger of factioning, cauſe each faction or party had and enjoyed their places, ſo need not faction for them, but now out,
+<pb n="15" facs="tcp:166792:10"/> they will faction it to get in, <hi>Kings, Peers, Prelates, Prieſts,</hi> and <hi>Lawyers,</hi> all then raigned in their Regions, and now they are arraigned, from whence they would faine returne to take their Turns againe.</p>
+            <p n="21">21. <hi>Faction it not then, oh noble Souldiers,</hi> ſo nor any one for rights or wrongs, no nor for love, pity, nor affe<g ref="char:EOLhyphen"/>ction to any individuall party whatſoever, no though he were innocent, nor yet for <hi>Religion,</hi> Gods honor, wor<g ref="char:EOLhyphen"/>ſhip, and ſervice, as call'd, and conceived to be; nor for the Goſpell, faith, or truth ſo notioned, as to Hoſtile it one againſt another, to the endangering of our <hi>Soveraign Salus,</hi> the Nation peace to the <hi>ſword</hi> againe, and ſo in likelyhood to ruine, for our Principle is above them all, and ſafety is before Rites, or Rights, &amp;c. and Univer<g ref="char:EOLhyphen"/>ſalls before Individualls, though never ſo righte<g ref="char:EOLhyphen"/>ous.</p>
+            <p n="22">22. As for Vowes, Covenants, Oaths, Promiſes and Proteſtations, with heaved up eyes, and erected hands, and dejected minds to heaven; ſo with Invocations, Appeales, and Applications to God, as a witneſſe of our integrities and ſincerities, not to lay downe Armes, nor forſake one another, till we had gained our Rights, Liberties and Freedomes, and then alſo to <hi>cleave together</hi> in the ſupport of them: Know, that the aforeſaids bind not to rights ſo called, which rightly rendred and under<g ref="char:EOLhyphen"/>ſtood are wrongs, nor to right our ſelves with our ruine; its diſputeable then what are our rights, all things conſi<g ref="char:EOLhyphen"/>dered, for, as afore, if our true rights will wrong us, they are not then our rights; therefore wiſely conſider the iſſue of enjoying our rights, which if dangerous or deſtructive, we are not bound by our <hi>Covenants</hi> to <hi>enjoy,</hi> till we can <hi>joy</hi> in them: Oh you <hi>wiſe</hi> and <hi>good men, bind</hi> us<note n="b" place="margin">Note theſe No<g ref="char:EOLhyphen"/>tions, names, and occulers endanger whole Na<g ref="char:EOLhyphen"/>tions: But if the Sab<g ref="char:EOLhyphen"/>bath be for man? and mercy be<g ref="char:EOLhyphen"/>fore Sacri<g ref="char:EOLhyphen"/>fice, then mans ne<g ref="char:EOLhyphen"/>ceſſities is before them all, &amp;c.</note> well therefore before you free us,<note place="margin">Fixingly</note> leaſt in our liber<g ref="char:EOLhyphen"/>ties
+<pb n="16" facs="tcp:166792:11"/> we <hi>licentiate,</hi> yet take no <hi>advantage</hi> in binding us, to keep us <hi>bound,</hi> otherwiſe then to our <hi>good behaviours,</hi> as to Juſtice, to Lawes, to Rights, and Civilities, to which alſo its good our binders were bound. In ſhort, give us out rights when we are ready for them, find a way to make us ready for them, and then inright us in them ſo far, and not much farther, leaſt we wrong our ſelves, and like <hi>Aeſops Dog,</hi>
+               <note place="margin">The ſhadow is not the Dogs due.</note> invade for what's not our <hi>rights,</hi> and ſo loſe our <hi>rights.</hi>
+            </p>
+            <p>We have now done, onely we entreat our <hi>Candid Readers</hi> to excuſe our triviall ſlips of <hi>pointing</hi> and <hi>Ortho<g ref="char:EOLhyphen"/>graphy,</hi> for that we could not well attend the <hi>Preſſe.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
